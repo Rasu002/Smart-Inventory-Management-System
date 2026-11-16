@@ -1,0 +1,10 @@
+
+/* Apply font to the whole application */
+* {
+    font-family: "Inter", Arial, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: "Inter", Arial, sans-serif;
+}

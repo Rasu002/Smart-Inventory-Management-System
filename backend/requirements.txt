@@ -1,0 +1,8 @@
+mysql-connector-python
+python-dotenv
+pydantic
+fastapi
+uvicorn
+passlib
+"pydantic[email]"
+bcrypt==4.0.1
